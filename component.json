@@ -3,7 +3,7 @@
   "repo": "jb55/take-until",
   "description": "",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["take", "takeUntil"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
