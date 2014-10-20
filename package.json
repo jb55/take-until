@@ -1,7 +1,7 @@
 {
   "name": "take-until",
-  "description": "Take elements from an array until a condition is met",
-  "version": "0.0.1",
+  "description": "Take elements from an array or string until a condition is met",
+  "version": "0.1.0",
   "keywords": ["take", "takeUntil"],
   "repository": {
     "url": "git://github.com/jb55/take-until.git"

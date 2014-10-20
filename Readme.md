@@ -1,5 +1,7 @@
 # take-until
 
+  [![Build Status](https://travis-ci.org/jb55/take-until.svg)](https://travis-ci.org/jb55/take-until)
+
   Take elements from an array until a condition is met
 
 ## Installation
